@@ -11,3 +11,5 @@ T
 $tests/training-certification.test.ts,e/b/eb53ea7169b5a17a72e61f58867ceebafa7727bc
 O
 tests/response-tracking.test.ts,9/e/9e8facdea127068634a41fc2a3e01b7c234dc9e3
+U
+%contracts/training-certification.clar,b/f/bf4963404a9d68860034f478347b67588c74e9dc

@@ -7,3 +7,7 @@ V
 &tests/firefighter-registration.test.ts,8/3/838806797962ae6ba8fd65348dc24044eaeb7e7d
 P
  contracts/response-tracking.clar,1/7/179e1d32c701c9d518fc4b649a2ef754996f6d69
+T
+$tests/training-certification.test.ts,e/b/eb53ea7169b5a17a72e61f58867ceebafa7727bc
+O
+tests/response-tracking.test.ts,9/e/9e8facdea127068634a41fc2a3e01b7c234dc9e3
